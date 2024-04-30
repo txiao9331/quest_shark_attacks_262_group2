@@ -1,5 +1,5 @@
 # Shark Tale Project 🦈
-
+![Shark Tale Banner](img/ST-1.png)
 Welcome to the Shark Tale project repository! This project dives into the intriguing world of shark sales, providing a comprehensive analysis of trends, species, and activities associated with the shark trade. Whether you're interested in the data or just shark-curious, you've come to the right place!
 
 ## Repository Structure 📁
