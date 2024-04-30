@@ -41,4 +41,4 @@ You can then navigate to the `/notebooks` directory to view the Jupyter notebook
 - Hat tip to anyone whose code was used
 - Special thanks to the data providers and supporters of our project
 
-![Thank you](images/ST-3.png)
+![Thank you](img/ST-3.png)
